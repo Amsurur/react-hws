@@ -11,7 +11,8 @@ const App = () => {
 
 
     <div><A/>
-    <button onClick={()=>setCount((prev)=>prev+1)}>+</button>
+    ajaja
+    <button onClick={()=>setCount((prev)=>prev+1)}>-</button>
     </div>
 </CntContext.Provider>
   )
