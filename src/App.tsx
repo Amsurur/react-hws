@@ -3,8 +3,8 @@ import { RouterProvider } from "react-router/dom";
 import Home from './pages/Home';
 import About from './pages/About';
 import Layout from './pages/Layout';
-import Todos from './pages/Todos';
 import TodoById from './pages/TodoById';
+import Todos from './pages/Todos';
 
 const App = () => {
 
